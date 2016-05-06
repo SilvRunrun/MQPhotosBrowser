@@ -5,6 +5,11 @@
 
 **内部UIImageView重用的高性能图片浏览器，支持本地图片和网络图片的加载。**
 
+
+![screenShot1](http://chuantu.biz/t4/8/1462500675x3738746523.jpg)
+![screenShot2](http://chuantu.biz/t4/8/1462500741x3738746523.jpg)
+
+
 ## 用法
 
 ####1.加载网络图片（方式一）
